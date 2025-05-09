@@ -63,7 +63,7 @@ npm run ios
 
 # OR using Yarn
 yarn ios
-
+```
 ---
 If everything is set up correctly, you should see your new app running in your Android Emulator or iOS Simulator shortly provided you have set up your emulator/simulator correctly.
 

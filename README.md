@@ -44,7 +44,7 @@ This app was built as part of an assignment project.
 
 ---
 
-### ✅ 1. Install dependencies
+### ✅  Install dependencies
 
 Open a terminal in the project root folder:
 

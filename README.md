@@ -51,18 +51,19 @@ Open a terminal in the project root folder:
 ```bash
 npm install
 
-### ✅ 2. Start Metro Bundler:
+# ✅ 2. Start Metro Bundler:
 npx react-native start
 
-### ✅ 3. Run on Android:
+# ✅ 3. Run on Android:
 npx react-native run-android
 
-### ✅ 4. Run on iOS:
+# ✅ 4. Run on iOS:
 # using npm
 npm run ios
 
 # OR using Yarn
 yarn ios
+
 ---
 If everything is set up correctly, you should see your new app running in your Android Emulator or iOS Simulator shortly provided you have set up your emulator/simulator correctly.
 

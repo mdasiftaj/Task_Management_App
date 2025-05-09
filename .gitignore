@@ -1,1 +1,70 @@
-node_modules
+# 💻 Operating System system files
+.DS_Store
+Thumbs.db
+
+# 📱 Android build outputs and configuration
+android/.gradle/
+android/build/
+android/app/build/
+android/.cxx/
+*.iml
+.idea/
+local.properties
+*.hprof
+*.keystore
+!debug.keystore
+
+# 🍏 iOS/Xcode project files
+ios/Pods/
+ios/build/
+*.xcworkspace
+*.xcuserstate
+*.xcodeproj/*
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+xcuserdata/
+*.xccheckout
+*.moved-aside
+DerivedData/
+*.hmap
+*.ipa
+**/.xcode.env.local
+
+# 🚀 Node.js dependencies and logs
+node_modules/
+npm-debug.log*
+yarn-error.log*
+
+# 🗂️ Metro bundler cache
+*.jsbundle
+.metro-health-check*
+
+# 📝 Visual Studio Code settings
+.vscode/
+
+# ✅ Fastlane outputs (optional if used)
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/
+fastlane/test_output/
+
+# 🗂️ Coverage reports
+coverage/
+
+# ⚙️ Yarn v2+ files (if used)
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/sdks
+!.yarn/versions
+
+# 🧪 General log files
+*.log
+
+# 🚫 Ignore environment files
+.env
+.env.local
+
